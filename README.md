@@ -27,3 +27,11 @@ snake-game/
 ├── data/              # Save data (snake, fruit, score, etc.)
 ├── images/            # UI and sprite assets
 └── sounds/            # Sound effects
+--- 
+## 🔧 Prerequisites
+
+Before running the project, make sure you have the following installed:
+
+- **Python 3.8+** → [Download here](https://www.python.org/downloads/)  
+- **Pygame** → for game graphics and input handling  
+- **NumPy** → for mathematical operations used in the game  
