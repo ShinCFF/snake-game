@@ -27,7 +27,8 @@ snake-game/
 ├── data/              # Save data (snake, fruit, score, etc.)
 ├── images/            # UI and sprite assets
 └── sounds/            # Sound effects
---- 
+```
+---
 ## 🔧 Prerequisites
 
 Before running the project, make sure you have the following installed:
